@@ -340,9 +340,6 @@ public class Stroboscope extends Activity implements OnEditorActionListener {
 			}
 		};
 		stats_timer.start();
-
-				
-		//display_stats();
 	}
 	
 	private void display_stats() {

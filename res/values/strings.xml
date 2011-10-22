@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Hello World, Stroboscope!</string>
-    <string name="app_name">Stroboscope</string>
+    <string name="app_name">Poor man stroboscope / RPM gauge</string>
     <string name="Hz">0 Hz</string>
     <string name="Frequency">Frequency [Hz] : </string>
     <string name="Intensity">Light on [%] : </string>
