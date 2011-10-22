@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Stroboscope!</string>
+    <string name="app_name">Stroboscope</string>
+    <string name="Hz">0 Hz</string>
+    <string name="Frequency">Frequency [Hz] : </string>
+    <string name="Intensity">Light on [%] : </string>
+    <string name="flasher_handle">use display as light</string>
+    <string name="err_no_camera">Camera not found !</string>
+    <string name="err_no_flash">Camera flash not installed !</string>
+    <string name="err_no_torch_mode">Camera flash does not support torch mode.</string>
+    <string name="RPM_info">Stats:\n\nBlink period: %1$d ± %2$.2f [ms]\nLight on period: %3$d ± %4$.2f [ms]\nFrequency: %5$.4f ± %6$.4f [Hz]\nRPM: %7$.2f ± %8$.2f [revolution/min]\n</string>
+</resources>
